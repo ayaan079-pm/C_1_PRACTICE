@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\bin\Debug\EXPAMLES2.exe.config
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\bin\Debug\EXPAMLES2.exe
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\bin\Debug\EXPAMLES2.pdb
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.Form1.resources
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.Properties.Resources.resources
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.exe
+C:\Users\pc\Desktop\2assigment\ayaan\EXPAMLES2\EXPAMLES2\obj\Debug\EXPAMLES2.pdb

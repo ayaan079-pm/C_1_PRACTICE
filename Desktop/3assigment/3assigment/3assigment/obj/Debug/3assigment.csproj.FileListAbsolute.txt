@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\bin\Debug\3assigment.exe.config
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\bin\Debug\3assigment.exe
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\bin\Debug\3assigment.pdb
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\3assigment.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\_3assigment.Form1.resources
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\_3assigment.Properties.Resources.resources
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\3assigment.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\3assigment.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\3assigment.exe
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\3assigment.pdb
+C:\Users\pc\Desktop\3assigment\3assigment\3assigment\obj\Debug\3assigment.exe.config
